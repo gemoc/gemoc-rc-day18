@@ -12,6 +12,6 @@ The GEMOC Hackathon 2018 is part of the [Unconference at EclipseCon France 2018]
 
 To attend the GEMOC Hackathon 2018, you must [register to the Unconference](https://www.eclipsecon.org/france2018/registration). 
 
-## Program and More Information
+## Program and further information
 
-The overall organization of the day, and See the [wiki](https://github.com/gemoc/gemoc-rc-day18/wiki) for more information. 
+See (and contribute to) the [wiki](https://github.com/gemoc/gemoc-rc-day18/wiki) for the overall organization of the GEMOC Hackathon 2018. Please, add your own topis of discussion, questions, etc. 
