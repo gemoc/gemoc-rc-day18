@@ -1,6 +1,17 @@
-# gemoc-rc-day18
-The GEMOC RC Day 2018 is the annual meeting about [The GEMOC Studio](http://eclipse.org/gemoc). The main objective is to bring together the community to make a breif recap on the recent achievements, to discuss the current concerns, to define the coming roadmap, to address challenging tasks on the studio, and to welcome the new comers.
+# GEMOC Hackathon 2018
 
-This full-day event is part of the Unconference at EclipseCon France, in Toulouse, France. It takes place at [INPT ENSEEIHT](https://www.google.fr/maps/place/INP-ENSEEIHT/@43.6020384,1.4522147,17z/data=!3m1!4b1!4m5!3m4!1s0x12aebc90e5abb5e5:0x3affd3008b8b9f03!8m2!3d43.6020384!4d1.4544087?hl=fr), Monday, June 11th, 2018, from 09h to 18h. 
+## Presentation
 
-See the [wiki](https://github.com/gemoc/gemoc-rc-day18/wiki) for more information. You can also register on the following doodle, **before TODO**: [TODO]()
+The GEMOC Hackathon 2018 is the annual meeting of the Eclipse Research Consortium GEMOC, dedicated to [The GEMOC Studio](http://eclipse.org/gemoc). The main objective is to bring together the GEMOC community to make a breif recap on the recent achievements, to discuss the current concerns, to define the coming roadmap, to address challenging tasks on the GEMOC Studio, and to welcome the new comers.
+
+## Organization
+
+The GEMOC Hackathon 2018 is part of the [Unconference at EclipseCon France 2018](https://www.eclipsecon.org/france2018/conference/schedule/session/2018-06-12), in Toulouse, France. It takes place in the room Bruxelles at [Hotel Pullman](https://www.google.com/maps/place/Hotel+Pullman+Toulouse+Centre/@43.6084913,1.4513373,17z/data=!3m1!4b1!4m5!3m4!1s0x12aebc97fba58c05:0x8505414193da2290!8m2!3d43.6084874!4d1.453526), Tuesday, June 12th, 2018, from 09h30 to 17h. 
+
+## Registration
+
+To attend the GEMOC Hackathon 2018, you must [register to the Unconference](https://www.eclipsecon.org/france2018/registration). 
+
+## Program and More Information
+
+The overall organization of the day, and See the [wiki](https://github.com/gemoc/gemoc-rc-day18/wiki) for more information. 
